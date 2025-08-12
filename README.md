@@ -1,12 +1,21 @@
-Car-Sale-Price
+## Car Sale Price Dashboard 🚗📊
+📌 Project Overview
+The Car Sale Price Dashboard is an interactive Power BI dashboard designed to analyze and visualize car sales data.
+It provides insights into pricing trends, sales performance, and customer preferences, enabling better decision-making for dealerships and automobile businesses.
 
-Overview:
-This dashboard provides an analysis of car price based on various factors such as car make, model, ownership and manufacture year. It aims to offer insights into trends and patterns in car prices to assist stakeholders in making informed decisions related to buying and selling cars.
+----
 
-Features:
-1.	Data Visualization:
-•	Interactive charts and graphs to visualize the distribution of car sale prices.
-•	Comparative analysis of prices based on different attributes like make, model, year, etc.
-2.	Filtering and Sorting:
-•	Ability to filter and sort data based on various parameters such as make, model, year, mileage, and location.
-•	Dynamic filtering to customize the analysis based on user preferences.
+## 🎯 Objectives
+Track total sales, revenue, and average car price.
+Analyze pricing trends by car brand, model, and year.
+Identify best-selling car types and categories.
+Understand regional sales performance.
+Provide a user-friendly interface for exploring sales data.
+
+------
+
+## 🛠️ Tools & Technologies
+Power BI – Dashboard creation & visualization
+Excel / CSV Dataset – Car sales and pricing data
+DAX – Custom measures for KPIs
+Power Query – Data cleaning and transformation
